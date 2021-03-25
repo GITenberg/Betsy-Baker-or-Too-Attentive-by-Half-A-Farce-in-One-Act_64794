@@ -1,5 +1,8 @@
 _repo: Betsy-Baker-or-Too-Attentive-by-Half-A-Farce-in-One-Act_64794
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64794-h/images/cover.jpg
 creator:
   author:
     agent_name: Morton, John Maddison
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41730
     wikipedia: https://en.wikipedia.org/wiki/John_Maddison_Morton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64794#Betsy-Baker-or-Too-Attentive-by-Half-A-Farce-in-One-Act
 gutenberg_issued: '2021-03-11'
 gutenberg_type: Text
 identifiers:
